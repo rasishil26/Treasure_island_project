@@ -1,6 +1,6 @@
 # 🏝️ Treasure Island – A Python Adventure Game
 
-Hey there! 👋 I'm Rasi Shil, and this is my **Treasure Island** project — a beginner-level, text-based adventure game built with Python. This project was part of my early Python learning journey, and it helped me understand how to work with `if-else` statements and build user-driven interactive programs.
+Hey there! 👋 I'm Rasi Shil, and this is my **Treasure Island** project, a beginner-level, text-based adventure game built with Python. This project was part of my early Python learning journey, and it helped me understand how to work with `if-else` statements and build user-driven interactive programs.
 
 ---
 
